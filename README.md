@@ -46,12 +46,15 @@ Get together and sort out the issue.
 
 We're wrapping the last 2 questions together: we'll simply adapt and deal with it on an ad hoc basis; from initial group interaction, there do not appear to be any issues with openness and feedback.
 
+## Work Plan
 ### How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 Github Project Board.  We already played with it and like it.
 ### What project management tool will be used?
 Same as above.
 We are considering working with Mob programming tools.
-
+## Presentation Deck
+https://docs.google.com/presentation/d/1vIVv4E-_TRebIVfWwHMRsgWr-LBM6a0JklwFYeZgxFg/edit#slide=id.g2accd1c413_3_31
+## Git Process
 ### What components of your project will live on GitHub?
 Everything.
 
